@@ -237,7 +237,7 @@ This analysis provides clear evidence that casual riders and members behave diff
 
 **Adetayo**  
 Data Analyst | Teach for Nigeria Fellow  
-[LinkedIn](www.linkedin.com/in/adetayo-akinsola) | [Tableau Profile](https://public.tableau.com/app/profile/adetayo.akinsola/vizzes) | [GitHub](#https://github.com/Adetayo28)
+[LinkedIn](www.linkedin.com/in/adetayo-akinsola) | [Tableau Profile](https://public.tableau.com/app/profile/adetayo.akinsola/vizzes) | [GitHub](https://github.com/Adetayo28)
 
 ---
 

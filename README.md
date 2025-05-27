@@ -36,10 +36,11 @@ The raw Cyclistic dataset consisted of 12 monthly CSV files spanning March 2024 
 
 | Tool | Purpose |
 |------|---------|
-| **PostgreSQL** | Data ingestion, cleaning & transformation |
-| **PowerShell** | Deduplication & automation of data import |
-| **Tableau** | Data visualization and interactive dashboard |
 | **Excel** | Exploratory data review |
+| **PowerShell** | Deduplication & automation of data import |
+| **PostgreSQL** | Exploration, cleaning & transformation |
+| **Tableau** | Data visualization and interactive dashboard |
+
 
 
 ---

@@ -15,10 +15,10 @@ This Tableau dashboard visualizes behavioral differences between **casual riders
 | Chart | Purpose |
 |-------|---------|
 | **User Type Distribution** | Shows proportion of casual vs member riders |
+| **Average Ride Duration** | Compares trip lengths between user types |
 | **Monthly Ride Trends** | Reveals seasonal usage patterns |
 | **Ride Frequency by Day** | Highlights weekday vs weekend behavior |
 | **Hourly Usage Pattern** | Identifies peak ride hours |
-| **Average Ride Duration** | Compares trip lengths between user types |
 | **Top Start Stations (Casual Riders)** | Lists most-used stations by casual riders |
 | **Geo Heat Map** | Visualizes spatial concentration of ride starts |
 
@@ -60,7 +60,7 @@ This Tableau dashboard visualizes behavioral differences between **casual riders
 ## Dashboard Deliverables
 
 - `Cyclistic_viz.pdf`: PDF version of the full dashboard
-- Tableau Public link: *(https://public.tableau.com/app/profile/adetayo.akinsola/vizzes)*
+- Tableau Public link: [https://public.tableau.com/app/profile/adetayo.akinsola/vizzes](https://public.tableau.com/app/profile/adetayo.akinsola/viz/Cyclistic_viz_17481887411890/CyclisticDashboard)
 
 ---
 

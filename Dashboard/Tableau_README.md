@@ -60,11 +60,11 @@ This Tableau dashboard visualizes behavioral differences between **casual riders
 ## Dashboard Deliverables
 
 - `Cyclistic_viz.pdf`: PDF version of the full dashboard
-- Tableau Public link: *(Insert when published)*
+- Tableau Public link: *(https://public.tableau.com/app/profile/adetayo.akinsola/vizzes)*
 
 ---
 
 ## Author
 
 Created by **Adetayo** — Data Analyst with a passion for building insight-driven, business-impactful dashboards.  
-Let’s connect on [LinkedIn](https://www.linkedin.com/) or [GitHub](https://github.com/)
+Let’s connect on [LinkedIn](www.linkedin.com/in/adetayo-akinsola) or [GitHub](https://github.com/Adetayo28)

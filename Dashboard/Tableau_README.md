@@ -60,7 +60,7 @@ This Tableau dashboard visualizes behavioral differences between **casual riders
 ## Dashboard Deliverables
 
 - `Cyclistic_viz.pdf`: PDF version of the full dashboard
-- Tableau Public link [https://public.tableau.com/app/profile/adetayo.akinsola/viz/Cyclistic_viz_17481887411890/CyclisticDashboard]
+- Tableau Public link: https://public.tableau.com/app/profile/adetayo.akinsola/viz/Cyclistic_viz_17481887411890/CyclisticDashboard
 
 ---
 

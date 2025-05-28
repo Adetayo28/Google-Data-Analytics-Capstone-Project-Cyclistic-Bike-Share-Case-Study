@@ -108,7 +108,7 @@ CREATE TABLE IF NOT EXISTS cyclistic_trip (
 SELECT 
 	member_casual, 
 	COUNT(*) AS total_rides
-FROM cyclistic_trip
+FROM  cyclistic_analysis
 GROUP BY member_casual;
 
 ```
@@ -121,7 +121,7 @@ GROUP BY member_casual;
 SELECT 
 	member_casual, 
 	ROUND(AVG(ride_min), 2) AS avg_ride_min
-FROM cyclistic_trip
+FROM  cyclistic_analysis
 GROUP BY member_casual;
 ```
 
@@ -135,7 +135,7 @@ GROUP BY member_casual;
 	member_casual, 
 	time_of_day, 
 	COUNT(*) AS total_rides
-FROM cyclistic_trip
+FROM  cyclistic_analysis
 GROUP BY member_casual, time_of_day
 ORDER BY member_casual, time_of_day;
 ```
@@ -143,7 +143,7 @@ ORDER BY member_casual, time_of_day;
 ```sql
 
 SELECT member_casual, TRIM(day_of_week) AS day, COUNT(*) AS total_rides
-FROM cyclistic_trip
+FROM  cyclistic_analysis
 GROUP BY member_casual, day
 ORDER BY member_casual, 
     CASE 
@@ -168,7 +168,7 @@ SELECT
 	member_casual, 
 	rideable_type, 
 	COUNT(*) AS ride_count
-FROM cyclistic_trip
+FROM  cyclistic_analysis
 GROUP BY member_casual, rideable_type
 ORDER BY member_casual, ride_count DESC;
 ```
